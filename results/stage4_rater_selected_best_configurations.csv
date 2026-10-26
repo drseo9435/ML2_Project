@@ -1,0 +1,8 @@
+target,feature_set,model,roc_auc_mean,roc_auc_sd,ROC_AUC_Mean_SD
+Y_Cohesion,rater_only,random_forest,0.5530990259740259,0.017040375325495825,0.553 ± 0.017
+Y_Conventions,rater_only,random_forest,0.5334740396796926,0.015720805827825004,0.533 ± 0.016
+Y_Grammar,rater_only,gradient_boosting,0.5484741631459213,0.01297464513535606,0.548 ± 0.013
+Y_Overall,rater_only,gradient_boosting,0.5377007050019944,0.011228449600660485,0.538 ± 0.011
+Y_Phraseology,rater_only,logistic_regression,0.5367762645644724,0.015443772788731673,0.537 ± 0.015
+Y_Syntax,rater_only,gradient_boosting,0.5338873772822383,0.02210004606856739,0.534 ± 0.022
+Y_Vocabulary,rater_only,random_forest,0.5356237612188871,0.029095787790867463,0.536 ± 0.029

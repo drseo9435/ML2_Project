@@ -1,0 +1,6 @@
+target,model,condition,roc_auc_mean,roc_auc_sd,auc_loss_when_removed
+Y_Cohesion,random_forest,without_rater_context,0.4931461038961039,0.029580371965413913,0.02559253246753246
+Y_Cohesion,random_forest,without_assessment_context,0.5151282467532468,0.017866793252745806,0.0036103896103896194
+Y_Cohesion,random_forest,full_all_structured,0.5187386363636364,0.013447705476921706,0.0
+Y_Cohesion,random_forest,without_student_background,0.5221185064935064,0.018651579232267814,-0.003379870129870066
+Y_Cohesion,random_forest,without_linguistic_writing,0.5350714285714286,0.01570685272136032,-0.016332792207792268

@@ -1,0 +1,14 @@
+analysis_category,original_row_index,failure_type,actual_class,predicted_class,pred_probability,rater_pair,rater_pair_train_n,prompt,grade,gender,race_ethnicity,SES,num_words,num_sent,num_para,MTLD,TTR,extreme_length,Cohesion_1,Cohesion_2,Delta_Cohesion,Y_Cohesion,essay_excerpt
+False negative,4380,False Negative,1,0,0.3300670616370854,rater_4||rater_6,19,Distance learning,12,Male,Hispanic/Latino,Economically disadvantaged,248,16,5,35.27563815,38.31417625,False,3,4,1,1,"Students wouldn't benefit from attending class from home. They would need to be present in class for the teacher to physically see them.
+
+Students would be more focused on there work in class when the teacher gives an assignment. There wouldn't be any distractions from there family members so they could finish up there work. There will be a teacher who shows how the work is done when help is needed. Work will be done more quicker in class because that s what the student is most focused on.
+
+In c"
+False positive,3790,False Positive,0,1,0.6536230537756604,rater_23||rater_9,11,Impact of technology,11,Female,White,Not economically disadvantaged,281,17,4,45.39217877,40.68441065,False,3,3,0,0,"Technology, has been discuess by many knowledgeable peole for along time. In today's world everything is working by technology. Technology is the use by knowledge. Many people believes that using technology is a good, because it can makes people life to easier and faster, but many people believes that using technology is a bad to our life.
+
+To bigin, many people believes that using technonogy is a good. Because it can easier and faster to our life, for example, writing books older day's there we"
+Low-frequency rater-pair error,4310,False Negative,1,0,0.4569962932051557,rater_16||rater_20,3,Creative arts requirement,12,Female,Hispanic/Latino,Economically disadvantaged,926,31,8,51.36527509,32.18954248,True,3,4,1,1,"Would you like to have an art class as an elective?
+
+A music, a drama, and an art classes. Should be elective because some students are not interested in this classes. If the classes are required to take it's not going to be beneficial for students, as the result they are going to have a bad grade.
+
+Elective classes gives the opportunity to those students that are willing to learn and have more skills in life. Take one of this classes during your school year, it is beneficial because you will ha"

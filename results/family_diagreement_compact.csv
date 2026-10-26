@@ -1,0 +1,8 @@
+gradient_boosting,logistic_regression,random_forest
+0.552 ± 0.021[rater_only],0.552 ± 0.020[rater_only],0.553 ± 0.017[rater_only]
+0.531 ± 0.015[rater_only],0.527 ± 0.011[rater_only],0.533 ± 0.016[rater_only]
+0.548 ± 0.013[rater_only],0.540 ± 0.022[all_structured],0.536 ± 0.011[rater_only]
+0.538 ± 0.011[rater_only],0.533 ± 0.020[all_structured],0.536 ± 0.010[rater_only]
+0.537 ± 0.019[all_structured],0.537 ± 0.015[rater_only],0.529 ± 0.012[rater_only]
+0.534 ± 0.022[rater_only],0.525 ± 0.019[all_structured],0.533 ± 0.008[all_structured]
+0.527 ± 0.022[rater_only],0.529 ± 0.023[rater_only],0.536 ± 0.029[rater_only]

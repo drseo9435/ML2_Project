@@ -1,0 +1,8 @@
+target,feature_set,model,initial_cv_roc_auc,tuned_cv_roc_auc,cv_auc_change,best_params
+Y_Cohesion,rater_only,random_forest,0.5530990259740259,0.5570113636363636,0.003912337662337673,"{'model__max_depth': 10, 'model__max_features': 0.5, 'model__min_samples_leaf': 5, 'model__n_estimators': 300}"
+Y_Grammar,rater_only,gradient_boosting,0.5484741631459213,0.5510115372115697,0.0025373740656483568,"{'model__learning_rate': 0.1, 'model__max_depth': 2, 'model__n_estimators': 100, 'model__subsample': 1.0}"
+Y_Phraseology,rater_only,logistic_regression,0.5367762645644724,0.540107431294041,0.0033311667295686798,{'model__C': 0.1}
+Y_Syntax,rater_only,gradient_boosting,0.5338873772822383,0.538606525394332,0.0047191481120936185,"{'model__learning_rate': 0.03, 'model__max_depth': 2, 'model__n_estimators': 200, 'model__subsample': 1.0}"
+Y_Overall,rater_only,gradient_boosting,0.5377007050019944,0.5377007050019944,0.0,"{'model__learning_rate': 0.1, 'model__max_depth': 3, 'model__n_estimators': 100, 'model__subsample': 1.0}"
+Y_Vocabulary,rater_only,random_forest,0.5356237612188871,0.5369473421504606,0.001323580931573476,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 500}"
+Y_Conventions,rater_only,random_forest,0.5334740396796926,0.5345006534619776,0.0010266137822849686,"{'model__max_depth': 20, 'model__max_features': 0.5, 'model__min_samples_leaf': 1, 'model__n_estimators': 300}"

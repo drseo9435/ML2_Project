@@ -1,0 +1,4 @@
+target,model,condition,features_used,roc_auc_mean,roc_auc_sd,auc_loss_when_removed
+Y_Cohesion,random_forest,without_Rater_1,Rater_2,0.5394943181818181,0.01553862335828417,0.017517045454545466
+Y_Cohesion,random_forest,without_Rater_2,Rater_1,0.5424001623376624,0.027632755627718893,0.014611201298701193
+Y_Cohesion,random_forest,full_best_feature_set,"Rater_1, Rater_2",0.5570113636363636,0.019911044269188084,0.0

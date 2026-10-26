@@ -1,0 +1,22 @@
+target,model,feature_set,roc_auc_mean,roc_auc_sd,ROC_AUC_Mean_SD
+Y_Cohesion,gradient_boosting,rater_only,0.5522897727272728,0.021206900148919777,0.552 ± 0.021
+Y_Cohesion,logistic_regression,rater_only,0.5523831168831169,0.020234545589969205,0.552 ± 0.020
+Y_Cohesion,random_forest,rater_only,0.5530990259740259,0.017040375325495825,0.553 ± 0.017
+Y_Conventions,gradient_boosting,rater_only,0.531371227727088,0.015380684166874976,0.531 ± 0.015
+Y_Conventions,logistic_regression,rater_only,0.5271513562786749,0.010562713129433913,0.527 ± 0.011
+Y_Conventions,random_forest,rater_only,0.5334740396796926,0.015720805827825004,0.533 ± 0.016
+Y_Grammar,gradient_boosting,rater_only,0.5484741631459213,0.01297464513535606,0.548 ± 0.013
+Y_Grammar,logistic_regression,all_structured,0.5396912577185571,0.022018755981633817,0.540 ± 0.022
+Y_Grammar,random_forest,rater_only,0.5355760480987976,0.010852092237692929,0.536 ± 0.011
+Y_Overall,gradient_boosting,rater_only,0.5377007050019944,0.011228449600660485,0.538 ± 0.011
+Y_Overall,logistic_regression,all_structured,0.5328007470736151,0.020218693669976966,0.533 ± 0.020
+Y_Overall,random_forest,rater_only,0.5355115607516471,0.010300447220773591,0.536 ± 0.010
+Y_Phraseology,gradient_boosting,all_structured,0.5366725341925591,0.01920700953030854,0.537 ± 0.019
+Y_Phraseology,logistic_regression,rater_only,0.5367762645644724,0.015443772788731673,0.537 ± 0.015
+Y_Phraseology,random_forest,rater_only,0.529345935745009,0.012215274589165822,0.529 ± 0.012
+Y_Syntax,gradient_boosting,rater_only,0.5338873772822383,0.02210004606856739,0.534 ± 0.022
+Y_Syntax,logistic_regression,all_structured,0.5249953558602719,0.019307995976698245,0.525 ± 0.019
+Y_Syntax,random_forest,all_structured,0.5327241870871984,0.007902040925593547,0.533 ± 0.008
+Y_Vocabulary,gradient_boosting,rater_only,0.5270804429021905,0.02173227907383556,0.527 ± 0.022
+Y_Vocabulary,logistic_regression,rater_only,0.5291553440427037,0.022675114168974227,0.529 ± 0.023
+Y_Vocabulary,random_forest,rater_only,0.5356237612188871,0.029095787790867463,0.536 ± 0.029
